@@ -1,0 +1,41 @@
+.center {
+  display: flex;
+  flex-direction: row;
+  height: 80vw;
+}
+
+.black-nav {
+  display: flex;
+  flex-direction: column;
+  background-color: #242424;
+  width: 100px;
+  margin-left: 0px;
+  margin-top: 70px;
+}
+
+.black-nav > img {
+  width:100px;
+  height:100px;
+  object-fit:scale-down;
+  margin-top: 20px;
+  margin-left: 0px;
+}
+
+.business-nav {
+  display: flex;
+  flex-direction: column;
+  margin-top: 70px;
+  margin-left: 20px;
+}
+
+.business-nav > button {
+  margin-top: 20px;
+}
+
+.your-business {
+  display: block;
+}
+
+.user-details {
+  margin-top: 70px;
+}

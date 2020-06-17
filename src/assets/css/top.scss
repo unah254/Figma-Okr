@@ -1,0 +1,41 @@
+.top-component {
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background: #FFFFFF;
+  box-shadow: 0 4px 8px rgba(199, 199, 199, 0.25);
+  height: 64px;
+  width: 100vw
+}
+
+.logo {
+  margin-left: 250px;
+  height: 30px;
+  margin-top: 15px;
+}
+
+.dropdown-btn {
+  margin-left: 30px;
+  margin-top: 15px;
+}
+
+.sandbox {
+  display: block;
+  margin-top: 20px;
+  margin-left: 30px;
+  margin-right: 80px;
+}
+
+.switch-btn {
+  margin-top: 15px;
+  margin-left: 50px;
+}
+
+.production {
+  margin-top: 20px;
+  margin-left: 15px;
+}
